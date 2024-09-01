@@ -33,7 +33,9 @@ public class ErrorValidations extends BaseTest{
 	{	
         
 	
-	    System.out.println("Hello from GIT DEMO user");    
+	    System.out.println("Hello from GIT DEMO user");   
+	    
+	    System.out.println("hello from GIT X user");
 	    
         String productName="ZARA COAT 3";
       
