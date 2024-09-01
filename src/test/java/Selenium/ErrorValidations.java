@@ -31,7 +31,10 @@ public class ErrorValidations extends BaseTest{
 @Test
 	public void invalidLoginTest() throws IOException 
 	{	
-      
+        
+	
+	    System.out.println("Hello from GIT DEMO user");    
+	    
         String productName="ZARA COAT 3";
       
         landingPage.logIn("naveen30@gmail.com", "Naveen@selenium243");
